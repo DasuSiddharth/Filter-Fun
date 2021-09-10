@@ -1,0 +1,29 @@
+canvas{
+  height :100pt;
+  width:200pt;
+  border:1px solid black;
+}
+.a1{
+  color:Indigo;
+}
+body{
+  background-color:SeaShell;
+}
+
+#graybutton{
+  font-size:14pt;
+
+}
+
+
+#redbutton{
+  font-size:14pt;
+  
+}
+
+#reset{
+  font-size:14pt;
+}
+#bluebutton{
+  font-size:14pt;
+}

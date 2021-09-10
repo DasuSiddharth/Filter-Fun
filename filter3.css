@@ -1,0 +1,33 @@
+
+canvas{
+ 
+  border:1px solid black;
+}
+.a1{
+  color:Indigo;
+  
+}
+body{
+  background-color:Turquoise;
+}
+
+#graybutton{
+  font-size:14pt;
+
+}
+
+
+#redbutton{
+  font-size:14pt;
+  
+}
+
+#reset{
+  font-size:14pt;
+}
+#bluebutton{
+  font-size:14pt;
+}
+#rainbow{
+  font-size:14pt;
+}
